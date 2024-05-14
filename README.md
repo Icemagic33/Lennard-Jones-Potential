@@ -16,28 +16,6 @@ The Lennard-Jones potential is characterized by its ability to model both repuls
 - Visualization of potential and force as functions of distance
 - Simulation of particle behavior in the potential field using Python
 
-## Technologies
-
-- Python: Numpy for numerical operations and Matplotlib for plotting
-- GitHub for version control and dissemination of the project
-
-## Setup and Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/lennard-jones-potential.git
-
-2. Navigate to the project directory:
-   ```bash
-   cd lennard-jones-potential
-3. Install required Python libraries:
-   ```bash
-   pip install numpy matplotlib
-4. Run the script:
-   ```bash
-   python simulation.py
 
 ## Usage
 This project can be used as an educational tool to understand molecular dynamics, particularly the interactions governed by the Lennard-Jones potential. It can also serve as a basis for more complex simulations involving multiple particles and varying conditions.
