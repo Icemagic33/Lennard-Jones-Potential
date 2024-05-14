@@ -30,10 +30,11 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/lennard-jones-potential.git
 
 2. Navigate to the project directory:
+   ```bash
    cd lennard-jones-potential
-3. Install required Python libraries:
+4. Install required Python libraries:
    pip install numpy matplotlib
-4. Run the script:
+5. Run the script:
    python simulation.py
 
 ## Usage
