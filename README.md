@@ -32,9 +32,11 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
    ```bash
    cd lennard-jones-potential
-4. Install required Python libraries:
+3. Install required Python libraries:
+   ```bash
    pip install numpy matplotlib
-5. Run the script:
+4. Run the script:
+   ```bash
    python simulation.py
 
 ## Usage
